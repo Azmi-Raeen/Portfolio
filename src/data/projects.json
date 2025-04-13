@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Mentor Connect",
+    "imageSrc": "projects/project.png",
+    "description": "A platform to connect mentees with industry mentors. It supports secure communication and skill development.",
+    "skills": ["React", "Node"],
+    "source": "https://www.github.com/Azmi-Raeen/Mentor-Connect"
+  },
+  {
+    "title": "Interactive Quiz",
+    "imageSrc": "projects/project.png",
+    "description": "A Python desktop application using Tkinter for conducting multiple-choice quizzes with scoring and progress tracking.",
+    "skills": ["Python", "Tkinter"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/Azmi-Raeen/Interactive-Quiz"
+  },
+  {
+    "title": "Flight Management System",
+    "imageSrc": "projects/project.png",
+    "description": "A C++ console app for booking and managing flights with basic account and password features.",
+    "skills": ["C++"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/Azmi-Raeen/Flight-Management-System"
+  }
+]
